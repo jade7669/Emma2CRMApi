@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emma2CRMApi", "Emma2CRMApi\Emma2CRMApi.csproj", "{79D982D9-8B61-4B6E-BDA4-00A409C2DAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D982D9-8B61-4B6E-BDA4-00A409C2DAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D982D9-8B61-4B6E-BDA4-00A409C2DAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D982D9-8B61-4B6E-BDA4-00A409C2DAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D982D9-8B61-4B6E-BDA4-00A409C2DAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {469B452C-4CCA-4A15-9DFA-88F7A84F2385}
+	EndGlobalSection
+EndGlobal
